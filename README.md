@@ -110,7 +110,8 @@ print("The highest rank cosine score is:", highest_rank_score)
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/2b59d17d-a161-4520-b555-b25e26b303b6)
+![image](https://github.com/user-attachments/assets/edc76d05-4d98-40d3-a57f-e0fe8b70b94e)
+
 
 
 
